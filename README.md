@@ -1,3 +1,4 @@
+# !!!!! Do not run this code. It's not functioning at all.
 # RoArm-M2 Pick-and-Place — 연결 & 실행 가이드
 
 ## 1. 로봇팔 연결
